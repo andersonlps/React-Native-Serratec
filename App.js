@@ -1,11 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Div1 from './components/Div1';
-import Div2 from './components/Div2';
-import Div3 from './components/Div3';
-import Div4 from './components/Div4';
-import Div5 from './components/Div5';
-import { styles } from './components/styles';
+import Div1 from './src/components/Div1';
+import Div2 from './src/components/Div2';
+import Div3 from './src/components/Div3';
+import Div4 from './src/components/Div4';
+import Div5 from './src/components/Div5';
+import { styles } from './src/components/styles';
 
 export default function App() {
  
